@@ -1,0 +1,5 @@
+El arreglo orginal: 
+[2][15][1][0][123]
+		Utilizando ALGORITMO DE ORDENAMIENTO HEAPSORT
+El arreglo ordenado: 
+[0][1][2][15][123]
